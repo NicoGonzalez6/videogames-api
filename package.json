@@ -16,8 +16,7 @@
     "createdb": "cd libs/database && npx sequelize-cli db:create",
     "dropdb": "cd libs/database && npx sequelize-cli db:drop",
     "populatedb": "cd libs/database && npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
-    "cleandb": "cd libs/database && npx sequelize-cli db:drop && npx sequelize-cli db:create",
-    "deploy": "npm install && npm run build && npm run start:prod"
+    "cleandb": "cd libs/database && npx sequelize-cli db:drop && npx sequelize-cli db:create"
   },
   "dependencies": {
     "@nestjs/common": "^9.0.0",
