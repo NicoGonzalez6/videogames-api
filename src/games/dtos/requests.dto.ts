@@ -12,7 +12,7 @@ export class GetGameDto {
 
 export class GetGamesDto {
   @ApiPropertyOptional({
-    example: 'warcraft 3',
+    example: 'star',
     description: 'name of the game',
   })
   name?: string;
