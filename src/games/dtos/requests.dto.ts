@@ -16,7 +16,7 @@ export class GetGamesDto {
     description: 'name of the game',
   })
   name?: string;
-  @ApiProperty({
+  @ApiPropertyOptional({
     description: 'current page',
   })
   currentPage: number;
