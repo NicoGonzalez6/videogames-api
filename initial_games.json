@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Disco Elysium",
+    "users_score": "8,3",
+    "critics_score": "97",
+    "game_type_id": 2,
+    "release_date": "2021-03-30",
+    "image_url": "https://static.metacritic.com/images/products/games/6/e3879329612427aca58cb5b7c7ab9818-98.jpg",
+    "description": "Disco Elysium - The Final Cut is the definitive edition of the smash-hit RPG. Pursue your political dreams in new quests, meet and question more of the city's locals, and explore a whole extra area"
+  },
+  {
+    "name": "Half-Life 2",
+    "users_score": "9,2",
+    "critics_score": "96",
+    "game_type_id": 1,
+    "release_date": "2004-11-04",
+    "image_url": "https://static.metacritic.com/images/products/games/8/3154ea81c0d3578b829a6640ac5ecfe7-98.jpg",
+    "description": "[Metacritic's 2004 PC Game of the Year] By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness,"
+  },
+  {
+    "name": "Grand Theft Auto v",
+    "users_score": "96",
+    "critics_score": "7,9",
+    "game_type_id": 3,
+    "release_date": "2015-04-13",
+    "image_url": "https://static.metacritic.com/images/products/games/2/bab786f634eee57a1c68be2dddf3d1e5-98.jpg",
+    "description": "Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of economic uncertainty and cheap reality TV"
+  },
+  {
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "users_score": "95",
+    "critics_score": "91",
+    "game_type_id": 2,
+    "release_date": "2000-09-24",
+    "image_url": "https://static.metacritic.com/images/products/games/9/fee92d54ce517ca92f49122771fd4aa5-98.jpg",
+    "description": "An epic continuation of the story that began in Baldur's Gate, this RPG is set along the southern portion of the Sword Coast, a detailed and rich area of the Forgotten Realms called Amn."
+  },
+  {
+    "name": "Persona 5 Royal",
+    "users_score": "95",
+    "critics_score": "8,4",
+    "game_type_id": 2,
+    "release_date": "2022-10-21",
+    "image_url": "https://static.metacritic.com/images/products/games/2/c16caf7c23f604f602a45024889fb4a9-98.jpg",
+    "description": "Prepare for an all-new RPG experience in Persona 5 Royal based in the universe of the award-winning series, Persona! Don the mask of Joker and join the Phantom Thieves of Hearts"
+  },
+  {
+    "name": "Portal 2",
+    "users_score": "95",
+    "game_type_id": 2,
+    "critics_score": "91",
+    "release_date": "2022-04-18",
+    "image_url": "https://static.metacritic.com/images/products/games/8/8ebc9aa5758d569f33e543d9fb629545-98.jpg",
+    "description": "Valve is working on a full-length sequel to its award-winning, mind-bending puzzle action game for the Xbox 360 and PC."
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "users_score": "94",
+    "critics_score": "8,4",
+    "game_type_id": 2,
+    "release_date": "2011-11-10",
+    "image_url": "https://static.metacritic.com/images/products/games/7/5988ee04196a686e107b46174f94a3ae-98.jpg",
+    "description": "The next chapter in the Elder Scrolls saga arrives from the Bethesda Game Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose."
+  },
+  {
+    "name": "Mass Effect 2",
+    "users_score": "94",
+    "critics_score": "8,9",
+    "release_date": "2010-06-26",
+    "game_type_id": 2,
+    "image_url": "https://static.metacritic.com/images/products/games/1/e2a90286a8a5a8d39aede79430f56575-98.jpg",
+    "description": "he Mass Effect trilogy is a science fiction adventure set in a vast universe filled with dangerous alien life forms and mysterious uncharted planets."
+  },
+  {
+    "name": "Grand Theft Auto: Vice City",
+    "users_score": "94",
+    "game_type_id": 3,
+    "critics_score": "8,7",
+    "release_date": "2003-05-12",
+    "image_url": "https://static.metacritic.com/images/products/games/4/a11e316b5dce587c8664323b4fd3230e-98.jpg",
+    "description": "[Metacritic's 2003 PC Game of the Year] The PC version has enhanced features including improved graphics and sound, additional PC controls, as well as several options for players to customize the game."
+  },
+  {
+    "name": "BioShock Infinite",
+    "users_score": "94",
+    "critics_score": "8,6",
+    "game_type_id": 1,
+    "release_date": "2013-03-25",
+    "image_url": "https://static.metacritic.com/images/products/games/8/d6db22b96a880fa7fb6d577591e181e2-98.jpg",
+    "description": "Initially conceived as a floating symbol of American ideals at a time when the United States was emerging as a world power, Columbia is sent to distant shores with great fanfare by a captivated public."
+  },
+  {
+    "name": "Elden Ring",
+    "users_score": "94",
+    "critics_score": "6,9",
+    "release_date": "2022-02-25",
+    "game_type_id": 2,
+    "image_url": "https://static.metacritic.com/images/products/games/8/0120618b1197a58226bfc36b63b14a02-98.jpg",
+    "description": "A New World Created By Hidetaka Miyazaki And George R. R. Martin. ELDEN RING, developed by FromSoftware, Inc. and BANDAI NAMCO Entertainment Inc., is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki creator of the influential DARK SOULS video game series."
+  },
+  {
+    "name": "Diablo",
+    "users_score": "94",
+    "game_type_id": 2,
+    "critics_score": "8,6",
+    "release_date": "1996-12-31",
+    "image_url": "https://static.metacritic.com/images/products/games/2/3d23d53559172dfdb3b3d910f9923547-98.jpg",
+    "description": "The kingdom of Khandaras has fallen into chaos. An unknown force of evil has swept across the land. Plunging it nto civil war and terrorizing the populace. A mad king, his missing son, and a mysterious archbishop are all pieces to the puzzle that faces you."
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt",
+    "users_score": "93",
+    "critics_score": "9,1",
+    "release_date": "2015-05-18",
+    "game_type_id": 2,
+    "image_url": "https://static.metacritic.com/images/products/games/9/562c989431810e6aac45b6164ae0bfca-98.jpg",
+    "description": "With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders, breathing down your neck, the only way to survive is to fight back."
+  },
+  {
+    "name": "Company of Heroes",
+    "users_score": "93",
+    "game_type_id": 5,
+    "critics_score": "8,7",
+    "release_date": "2006-09-13",
+    "image_url": "https://static.metacritic.com/images/products/games/4/8d178665cd9b57f9965453cc1a8fedc7-98.jpg",
+    "description": "A real-time strategy game set in World War II, Company of Heroes brings to life, in full cinematic detail, the greatest war mankind has ever known."
+  },
+  {
+    "name": "Divinity: Original Sin II",
+    "users_score": "93",
+    "critics_score": "8,8",
+    "release_date": "2017-09-14",
+    "game_type_id": 2,
+    "image_url": "https://static.metacritic.com/images/products/games/1/e7ec0efeb2d6f01d15c2254a395a3065-98.jpg",
+    "description": "Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God."
+  },
+  {
+    "name": "Unreal Tournament 2004",
+    "users_score": "93",
+    "critics_score": "8,8",
+    "release_date": "2004-03-16",
+    "game_type_id": 1,
+    "image_url": "https://static.metacritic.com/images/products/games/8/a6922b55f29ce22382e871976a6920f1-98.jpg",
+    "description": "Reload, rev up and ride out. The new Tournament is faster, higher and meaner."
+  },
+  {
+    "name": "Starcraft II: Wings of Liberty",
+    "users_score": "93",
+    "critics_score": "8,2",
+    "game_type_id": 5,
+    "release_date": "2010-07-27",
+    "image_url": "https://static.metacritic.com/images/products/games/4/e3c315f435e55f897c4761d4fefc432e-98.jpg",
+    "description": "StarCraft II continues the epic saga of the Protoss, Terran, and Zerg. These three distinct and powerful races clash once again in the fast-paced real-time strategy sequel to the legendary original, StarCraft."
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "users_score": "93",
+    "critics_score": "6,7",
+    "release_date": "2019-11-05",
+    "game_type_id": 1,
+    "image_url": "https://static.metacritic.com/images/products/games/6/ed4c1829d640cd58b8a6b9a82da58eaf-98.jpg",
+    "description": "America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs. Those who will not surrender or succumb are killed."
+  },
+  {
+    "name": "Grand Theft Auto III",
+    "users_score": "93",
+    "critics_score": "8,1",
+    "release_date": "2002-05-20",
+    "game_type_id": 1,
+    "image_url": "https://static.metacritic.com/images/products/games/7/b0cddbca8fec88e94ec9269379a0d379-98.jpg",
+    "description": "The PC version features enhanced 3D audio. Environmentally scaled and referenced from the player's perspective"
+  },
+  {
+    "name": "God of War",
+    "users_score": "93",
+    "critics_score": "8,5",
+    "game_type_id": 1,
+    "release_date": "2022-01-14",
+    "image_url": "https://static.metacritic.com/images/products/games/1/d7bc93f705395a7d9cf86e9e4e572607-98.jpg",
+    "description": "The God of War has changed... and this is not the Kratos you know. A difficult and unfamiliar road awaits as you explore a stunning retelling of a classic story"
+  },
+  {
+    "name": "Hades",
+    "users_score": "93",
+    "game_type_id": 1,
+    "critics_score": "8,8",
+    "release_date": "2020-09-17",
+    "image_url": "https://static.metacritic.com/images/products/games/5/66a3bd7342bf5b122b92862a465177ed-98.jpg",
+    "description": "Defy the god of death as you hack and slash your way out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor."
+  },
+  {
+    "name": "Star Wars: Knights of the Old Republic",
+    "users_score": "93",
+    "game_type_id": 2,
+    "critics_score": "90",
+    "release_date": "2003-11-18",
+    "image_url": "https://static.metacritic.com/images/products/games/9/fa5c67e8ea63a4c14cdacc9555accc60-98.jpg",
+    "description": "Engage in this saga set in the Golden Age of the Republic - over 4,000 years before the first Star Wars film, when both Jedi and Sith number in the thousands."
+  },
+  {
+    "name": "Warcraft III: Reign of Chaos",
+    "users_score": "92",
+    "critics_score": "9,2",
+    "release_date": "2002-07-03",
+    "game_type_id": 5,
+    "image_url": "https://static.metacritic.com/images/products/games/1/381270905624fa84865e1fe874eb8eb5-98.jpg",
+    "description": "[Metacritic's 2002 PC Game of the Year] It has been nearly fifteen years since the war between the orcs and humans ended. An uneasy peace settled over the land while, for years, the drums of war were silent."
+  },
+  {
+    "name": "Resident Evil 4",
+    "users_score": "92",
+    "critics_score": "5",
+    "game_type_id": 1,
+    "release_date": "2023-03-24",
+    "image_url": "https://static.metacritic.com/images/products/games/3/f98d947c9c051f991d0701195eec0130-98.jpg",
+    "description": "SURVIVAL IS JUST THE BEGINNING...Resident Evil 4 is a remake of the 2005 original Resident Evil 4. Reimagined for 2023 to bring state-of-the-art survival horror."
+  },
+  {
+    "name": "Final Fantasy XIV: Endwalker",
+    "users_score": "92",
+    "critics_score": "9,1",
+    "release_date": "2021-12-07",
+    "game_type_id": 2,
+    "image_url": "https://static.metacritic.com/images/products/games/5/95bd63f43928f86ed8872be385e94e82-98.jpg",
+    "description": "Endwalker is the fourth expansion pack for FINAL FANTASY XIV Online."
+  },
+  {
+    "name": "Dishonored",
+    "users_score": "91",
+    "game_type_id": 1,
+    "critics_score": "8,5",
+    "release_date": "2012-10-08",
+    "image_url": "https://static.metacritic.com/images/products/games/2/5579c6cdb4efaaab0dc07abaa4bf6644-98.jpg",
+    "description": "pproach each assassination with your own unique style. Use shadow and sound to your advantage to traverse silently through levels unseen by enemies, or attack foes head-on as they react to your aggression"
+  },
+  {
+    "name": "Overwatch",
+    "users_score": "91",
+    "game_type_id": 1,
+    "critics_score": "6,4",
+    "release_date": "2016-05-23",
+    "image_url": "https://static.metacritic.com/images/products/games/5/5b4b131363a4dba40e923bb8f788d56e-98.jpg",
+    "description": "Overwatch is a highly stylized team-based shooter set on earth in the near future."
+  },
+  {
+    "name": "Baldur's Gate",
+    "users_score": "91",
+    "critics_score": "8,9",
+    "game_type_id": 2,
+    "release_date": "1998-12-21",
+    "image_url": "https://static.metacritic.com/images/products/games/2/89a0525888498746e946d4df9faeb383-98.jpg",
+    "description": "Baldur's Gate takes you back to the Forgotten Realms on a visually dazzling role-playing adventure, one that brings to life the grand tradition of Advanced Dungeons & Dragons through cutting edge art and technology."
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell",
+    "users_score": "91",
+    "critics_score": "8,5",
+    "game_type_id": 1,
+    "release_date": "2003-02-19",
+    "image_url": "https://static.metacritic.com/images/products/games/9/2a08ba78f40d57d58995a4eef384bbcd-98.jpg",
+    "description": "Infiltrate terrorists' positions, acquire critical intelligence by any means necessary, execute with extreme prejudice, and exit without a trace"
+  },
+  {
+    "name": "Batman: Arkham Asylum",
+    "users_score": "91",
+    "critics_score": "8,6",
+    "game_type_id": 1,
+    "release_date": "2009-08-10",
+    "image_url": "https://static.metacritic.com/images/products/games/5/8c0d025f0ad5d0f625717b6806ed0afc-98.jpg",
+    "description": "In Batman: Arkham Asylum, the player assumes the role of Batman as he delivers The Joker to Arkham Asylum. There, the imprisoned super-villains have set a trap and an immersive combat gaming experience unfolds."
+  }
+]
