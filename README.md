@@ -2,7 +2,7 @@
 
 - Al clonar el repo se deben completar el archivo env con el siguiente formato.
 
-- Colocar sus credencials de postgres,y el puerto que utiliza.
+- Colocar sus credencials de postgres, y el puerto que utiliza.
 
 ```bash
 
