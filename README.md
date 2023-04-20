@@ -2,11 +2,16 @@
 
 - Al clonar el repo se deben completar el archivo env con el siguiente formato.
 
+
+```bash
+
 DB_USER=
 DB_PASSWORD=
 DB_NAME=games-api
 DB_PORT=
 DB_HOST=
+
+```
 
 - Luego ejecutar los siguientes scripts para preparar el ambiente.
 
