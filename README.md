@@ -19,9 +19,9 @@ DB_HOST=localhost
 ```bash
 $ npm install
 
-$ npm createdb
+$ npm run createdb
 
-$ npm populatedb
+$ npm run populatedb
 ```
 
 - Ya tendremos el ambiente listo para continuar.
